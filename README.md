@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Almetwaly 👋
 
-<!--
-**Mohamed-Almetwaly/Mohamed-Almetwaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Information Systems Student | Frontend Developer
+I specialize in building modern web applications using **React.js** and **Redux**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack:
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks:** React.js
+- **State Management:** Redux
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🌍 Location:
+- Egypt 🇪🇬
