@@ -20,10 +20,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Management Information Systems Graduate, El Shorouk Academy (2022 – 2026) · Grade: Very Good
+- 🎓 Management Information Systems Graduate, El Shorouk Academy (2022 – 2026) 
 - 💼 Frontend Developer with hands-on experience across 7 projects, including web and cross-platform mobile apps
 - 🧩 Strong at converting UI/UX designs into clean, pixel-perfect code and integrating frontends with SQL Server
-- 🌍 Based in Egypt · Arabic (Native), English (B+)
+- 🌍 Based in Egypt 
 
 ---
 
@@ -107,13 +107,6 @@
 
 ---
 
-## 🏆 Certifications & Training
-
-- **Front-End Web Development Diploma (React.js)**, Safe Academy · Score 90% · April 2026
-- **Frontend Web Development Diploma**, Route IT Training Center · February 2026
-- **MCSA (Microsoft Certified Solutions Associate)**, Black Horse Courses · Grade: Excellent · 2025
-
----
 
 ## 📊 GitHub Stats
 
