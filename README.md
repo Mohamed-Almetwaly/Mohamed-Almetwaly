@@ -107,13 +107,6 @@
 
 ---
 
-## 🏆 Certifications & Training
-
-- **Front-End Web Development Diploma (React.js)**, Safe Academy · Score 90% · April 2026
-- **Frontend Web Development Diploma**, Route IT Training Center · February 2026
-- **MCSA (Microsoft Certified Solutions Associate)**, Black Horse Courses · Grade: Excellent · 2025
-
----
 
 ## 📊 GitHub Stats
 
